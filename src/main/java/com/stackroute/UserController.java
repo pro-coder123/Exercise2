@@ -27,7 +27,7 @@ public class UserController {
     {
         ModelAndView m = new ModelAndView();
         m.setViewName("home.jsp");
-        m.addObject("name","Varun");
+        m.addObject("name",request.getParameter("user"));
         return m;
     }
 
