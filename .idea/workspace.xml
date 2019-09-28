@@ -6,7 +6,39 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b8cde77-21b3-47b8-96e4-23582a54859e" name="Default Changelist" comment="" />
+    <list default="true" id="8b8cde77-21b3-47b8-96e4-23582a54859e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/home.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Exercise1.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Exercise1/WEB-INF/UserController-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Exercise1/WEB-INF/classes/com/stackroute/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Exercise1/WEB-INF/classes/com/stackroute/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Exercise1/WEB-INF/control-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Exercise1/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Exercise1/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Exercise1/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Exercise1/WEB-INF/lib/mysql-connector-java-5.1.36.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Exercise1/WEB-INF/lib/spring-aop-4.1.8.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Exercise1/WEB-INF/lib/spring-aop-5.1.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Exercise1/WEB-INF/lib/spring-beans-4.1.8.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Exercise1/WEB-INF/lib/spring-beans-5.1.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Exercise1/WEB-INF/lib/spring-context-4.1.8.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Exercise1/WEB-INF/lib/spring-context-5.1.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Exercise1/WEB-INF/lib/spring-core-4.1.8.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Exercise1/WEB-INF/lib/spring-core-5.1.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Exercise1/WEB-INF/lib/spring-expression-4.1.8.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Exercise1/WEB-INF/lib/spring-expression-5.1.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Exercise1/WEB-INF/lib/spring-jcl-5.1.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Exercise1/WEB-INF/lib/spring-web-4.1.8.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Exercise1/WEB-INF/lib/spring-web-5.1.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Exercise1/WEB-INF/lib/spring-webmvc-4.1.8.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Exercise1/WEB-INF/lib/spring-webmvc-5.1.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Exercise1/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Exercise1/home.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Exercise1/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,10 +52,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1RPBP7xZadBPnJJGzcjBaSFdB37" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.32916668" />
@@ -81,7 +118,7 @@
     </configuration>
     <configuration name="tomcat" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY">
       <option name="DOC_BASE" value="$PROJECT_DIR$/src/main/webapp" />
-      <option name="CONTEXT_PATH" value="/Exercise1" />
+      <option name="CONTEXT_PATH" value="/Exercise2" />
       <option name="TOMCAT_PORT" value="8080" />
       <option name="AJP_PORT" value="8009" />
       <option name="ADMIN_PORT" value="8005" />
@@ -95,8 +132,8 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Smart Tomcat.tomcat" />
       <item itemvalue="Maven.Exercise1 [package]" />
+      <item itemvalue="Smart Tomcat.tomcat" />
     </list>
     <recent_temporary>
       <list>
@@ -116,5 +153,16 @@
       <updated>1569558823320</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

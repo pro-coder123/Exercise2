@@ -5,6 +5,6 @@ pageEncoding="UTF-8" isELIgnored="false"%>
 
 <html>
 <body>
-<h2>Hello</h2>  <%= request.getAttribute("name") %>
+<h2>Hello Bruh</h2>
 </body>
 </html>
